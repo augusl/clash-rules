@@ -1,0 +1,12 @@
+payload:
+  - PROCESS-NAME,Sequel Ace
+  - PROCESS-NAME,Termius
+  - PROCESS-NAME,Termius Helper (Renderer)
+  - PROCESS-NAME,Termius%20Helper%20%28Renderer%29
+  - PROCESS-NAME,Termius Helper
+  - PROCESS-NAME,Termius%20Helper
+  - PROCESS-NAME,ssh
+  - PROCESS-NAME,TablePlus
+  - PROCESS-NAME,Core Shell
+  - PROCESS-NAME,Core%20Shell
+  - PROCESS-NAME,MySQLWorkbench
