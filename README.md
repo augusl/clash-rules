@@ -1,1 +1,1 @@
-# clash-ssh-rules
+# clash-rules
