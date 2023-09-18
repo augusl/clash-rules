@@ -1,4 +1,13 @@
-var body = $response.body.replace(/is_vip":\w+/g,'is_vip":1')
-.replace(/"vip_end_at":\w+/g,'"vip_end_at":99999999999')
-.replace(/"vip_start_at":\w+/g,'"vip_end_at":9999')
-$done({ body });
+var body = JSON.parse($response.body);
+
+body.data.vipInfo = {
+      "error": false,
+      "data": {
+        "vip_expired": "9999999999",
+        "is_vip_now": true,
+        "is_vip": "1"
+      },
+      "status":200
+    };
+
+$done({ body: JSON.stringify(body) });
