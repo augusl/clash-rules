@@ -11,3 +11,4 @@ payload:
   - PROCESS-NAME,Core%20Shell
   - PROCESS-NAME,MySQLWorkbench
   - PROCESS-NAME,datagrip
+  - PROCESS-NAME,java
