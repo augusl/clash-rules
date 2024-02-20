@@ -12,3 +12,4 @@ payload:
   - PROCESS-NAME,MySQLWorkbench
   - PROCESS-NAME,datagrip
   - PROCESS-NAME,java
+  - PROCESS-NAME,php
