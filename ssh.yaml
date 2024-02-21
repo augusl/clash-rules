@@ -12,3 +12,4 @@ payload:
   - PROCESS-NAME,MySQLWorkbench
   - PROCESS-NAME,datagrip
   - PROCESS-NAME,java
+  - DOMAIN-SUFFIX,tidbcloud.com
