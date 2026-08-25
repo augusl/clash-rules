@@ -13,4 +13,7 @@ payload:
   - PROCESS-NAME,datagrip
   - PROCESS-NAME,java
   - PROCESS-NAME,dbx
+  - PROCESS-NAME,Navicat Premium Lite
+  - PROCESS-NAME,Navicat
+  - PROCESS-NAME,Navicat Premium
   - DOMAIN-SUFFIX,tidbcloud.com
